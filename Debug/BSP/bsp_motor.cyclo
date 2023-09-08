@@ -1,0 +1,5 @@
+../BSP/bsp_motor.c:8:16:Motor_Ignore_Dead_Zone	3
+../BSP/bsp_motor.c:17:6:Motor_Stop	1
+../BSP/bsp_motor.c:26:6:Motor_Set_Pwm	11
+../BSP/bsp_motor.c:113:6:MOTOR_GPIO_Init	1
+../BSP/bsp_motor.c:145:9:Motor_Get_Enable_State	1

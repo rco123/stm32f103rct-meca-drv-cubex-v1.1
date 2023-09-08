@@ -1,0 +1,13 @@
+../APP/app_motion.c:33:14:Motion_Get_Circle_Pulse	1
+../APP/app_motion.c:41:7:Motion_Get_Data	4
+../APP/app_motion.c:49:6:Motion_Get_Motor_Speed	2
+../APP/app_motion.c:59:6:Motion_Set_Pwm	9
+../APP/app_motion.c:80:6:Motion_Stop	1
+../APP/app_motion.c:89:6:Motion_Set_Speed	2
+../APP/app_motion.c:104:6:Motion_Get_Speed	3
+../APP/app_motion.c:134:7:Motion_Get_APB	1
+../APP/app_motion.c:139:7:Motion_Get_Circle_MM	1
+../APP/app_motion.c:145:6:Motion_Get_Encoder	2
+../APP/app_motion.c:168:6:Motion_Ctrl	4
+../APP/app_motion.c:242:6:Motion_Send_Data	1
+../APP/app_motion.c:248:6:Motion_Handle	1

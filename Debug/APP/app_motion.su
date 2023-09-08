@@ -1,0 +1,13 @@
+../APP/app_motion.c:33:14:Motion_Get_Circle_Pulse	16	static
+../APP/app_motion.c:41:7:Motion_Get_Data	16	static
+../APP/app_motion.c:49:6:Motion_Get_Motor_Speed	24	static
+../APP/app_motion.c:59:6:Motion_Set_Pwm	24	static
+../APP/app_motion.c:80:6:Motion_Stop	8	static
+../APP/app_motion.c:89:6:Motion_Set_Speed	32	static
+../APP/app_motion.c:104:6:Motion_Get_Speed	48	static
+../APP/app_motion.c:134:7:Motion_Get_APB	4	static
+../APP/app_motion.c:139:7:Motion_Get_Circle_MM	4	static
+../APP/app_motion.c:145:6:Motion_Get_Encoder	16	static
+../APP/app_motion.c:168:6:Motion_Ctrl	64	static
+../APP/app_motion.c:242:6:Motion_Send_Data	4	static
+../APP/app_motion.c:248:6:Motion_Handle	24	static
